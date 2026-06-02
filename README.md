@@ -2,9 +2,6 @@
 
 A scalable ride-booking platform built using Spring Boot microservices.
 
-## System Architecture
-
-![Architecture](architecture/movex-architecture.png)
 
 ## Tech Stack
 
